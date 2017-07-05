@@ -35,3 +35,6 @@
 </html>
 ```
 ###### NOTE: This is an early work in progress
+###### A completed page will be more dynamic, minimally designed, have multiple pages (or scrolling single page) and have more advanced functionalities/images.
+
+## Author: Tom Santos
