@@ -1,0 +1,56 @@
+.document {
+  background-color: black;
+}
+
+.container {
+  margin: auto;
+}
+
+.item {
+
+}
+
+.centerImage {
+  z-index: 1;
+  position: absolute;
+}
+
+#x {
+  position: absolute;
+}
+
+#a {
+  position: relative;
+}
+
+h1 {
+  font-family: Helvetica, Gotham, serif;
+  font-style: bold;
+  font-size: 60px;
+}
+h3 {
+  font-family: Helvetica, Gotham, serif;
+  font-style: bold;
+  font-size: 40px;
+}
+
+.bgcolor {
+  background-color: black;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  width: 1000px;
+  padding: 50px 50px 50px 50px;
+}
+
+/*a.hover {
+
+}*/
