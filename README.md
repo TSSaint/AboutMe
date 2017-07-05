@@ -1,11 +1,10 @@
-# Tom's About Me Project
-
-![Relaxing cat](./assets/cat.jpg)
-
 ### Technologies:
 - HTML
 - CSS
 - JavaScript
+
+![About Me Page](./images/homepageV1.png)
+# Tom's About Me Project
 
 ### Code Sample:
 ##### Some HTML:
