@@ -22,7 +22,6 @@
 #a {
   position: relative;
 }
-
 h1 {
   font-family: Helvetica, Gotham, serif;
   font-style: bold;
@@ -46,8 +45,13 @@ a {
   text-decoration: none;
 }
 
+.background-img {
+  background: url("../images/tom-photo-2017.jpg") no-repeat;
+}
+
 body {
-  width: 1000px;
+  background: url(/);
+  width: 800px;
   padding: 50px 50px 50px 50px;
 }
 
